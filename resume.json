@@ -1,0 +1,148 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+      "name": "Nakarin Jia",
+      "label": "Full-stack Developer @ Bonmek Co.,Ltd. | ISO/IEC 29110 training",
+      "image": "",
+      "email": "",
+      "phone": "",
+      "url": "",
+      "summary": "As a Full-stack Developer at Bonmek, I design and develop web and mobile applications using Angular and Grails. One of my proudest achievements is the Bismillah project, which is available on Play Store and App Store. This project was the first one I worked on and it involved creating a web and mobile app based on the requirements. \n\nI graduated with a Bachelor of Engineering degree in Computer Engineering from Prince of Songkla University, where I learned the fundamentals of software engineering and network systems. I also gained some experience working as a Developer at B-better startup, where I helped to create a mobile app for stroke patients. Next year, I will be training in ISO/IEC 29110, which will enhance my project management skills. I am always eager to learn new skills and technologies, and I enjoy working on challenging and innovative projects.",
+      "location": {
+        "countryCode": "US",
+        "address": "Thailand"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "nakarinjia",
+          "url": "https://www.linkedin.com/in/nakarinjia/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Bonmek Co.,Ltd.",
+        "position": "Full-stack Developer",
+        "startDate": "2020-09-30",
+        "endDate": "2024-03-31",
+        "highlights": [],
+        "summary": "In my position, I work with Angular and Grails. Most of our productions are in-house products. I am most proud of my project, \"Bismillah\" (available on Play Store and App Store). In this project, I have designed a web application and a mobile application based on requirements. This project is the first one I have worked on. Next year, I have the opportunity to train in \"ISO/IEC 29110: The provision of software application development in accordance with Software Engineering - Lifecycle profile ISO/IEC VSE 29110-4-1:2018\" with SGS Certification. In this training, I will learn project management skills. After that, I will learn some Grails skills and try to write some APIs.",
+        "url": "",
+        "location": "Hat Yai, Songkhla, Thailand"
+      },
+      {
+        "name": "B-better startup",
+        "position": "Developer",
+        "startDate": "2019-01-31",
+        "endDate": "2019-08-31",
+        "highlights": [],
+        "summary": "This is the first time that I have come into a startup program, I have a group my friends to join my team. Then we study most pain points of Stoke's patient. After we know the pain point we analyze the patient's pain point in a mobile application. The application helps patients to easily and correct physical therapy at home and a doctor can follow up his patient by mobile application.",
+        "url": "",
+        "location": "หาดใหญ่, สงขลา, ประเทศไทย"
+      },
+      {
+        "name": "SKY ICT PCL.",
+        "position": "Network Intern",
+        "startDate": "2018-05-31",
+        "endDate": "2018-07-31",
+        "highlights": [],
+        "summary": null,
+        "url": "https://www.linkedin.com/company/31569006",
+        "location": "Bangkok, Bangkok City, Thailand"
+      },
+      {
+        "name": "The Company",
+        "position": "Barista",
+        "startDate": "2015-10-31",
+        "endDate": "2018-01-31",
+        "highlights": [],
+        "summary": null,
+        "url": "",
+        "location": "หาดใหญ่, สงขลา, ประเทศไทย"
+      },
+      {
+        "name": "U-Care startup",
+        "position": "Pitcher",
+        "startDate": "2017-06-30",
+        "endDate": "2017-06-30",
+        "highlights": [],
+        "summary": "My friend begs me to help him as a Pitcher, he develops and designs with his team. I only analyze and pitch on startup stage.",
+        "url": "",
+        "location": null
+      }
+    ],
+    "volunteer": [],
+    "education": [
+      {
+        "institution": "Prince of Songkla University",
+        "area": "Computer Engineering",
+        "studyType": "Bachelor of Engineering - BE",
+        "startDate": "2014-08-31",
+        "endDate": "2019-08-31",
+        "score": "",
+        "courses": []
+      }
+    ],
+    "awards": [],
+    "certificates": [],
+    "publications": [],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Java",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Spring Boot",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Angular",
+        "level": "",
+        "keywords": []
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Native Speaker"
+      }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [
+      {
+        "name": "TMS ( Transport Management System )",
+        "startDate": "2023-03-31",
+        "summary": "In this project, I start to develop a full-stack developer position. I work in the PM position analyzing customer requirements from senior project management then designing UxUi, analyzing CI ( Company Identity ) after summit UxUi to the customer I have designed project structure (domain in grails) with a senior developer. While I developed I learned SQL language and MySQL workbench to manage our data, sometimes I wrote a migration code after customer change requirements then we had to restructure and improve our code to work correctly. After the end of each module, I have to write a report with Jasper report ( I-Report ), export Excel report (.xslx), and report as table and graph",
+        "url": null,
+        "endDate": "2023-03-31"
+      },
+      {
+        "name": "Honest Insurance (HN-INS)",
+        "startDate": "2021-12-31",
+        "summary": "In this project, I have learned how to create a website with WordPress and Web-applications. This project is also an in-house project that allows users to view our product in WordPress redirect to the web application and register in wizard form ( register steps by steps ) then staff can view users' register request check and approved register form ( gateway payment I didn't development is this module )",
+        "url": null,
+        "endDate": "2022-12-31"
+      },
+      {
+        "name": "Bilmillah",
+        "startDate": "2020-11-30",
+        "summary": "In-house project about setting Islamic prayer times in each area ( province ), setting time diff from each area, and setting Islamic dates from Sheikhul Islam Office's announcement. In addition, I developed a News module as a microservice where staff can create news or announcements display as web-view in flutter app ( I don't develop with flutter, In this project I develop angular only)",
+        "url": null,
+        "endDate": "2021-12-31"
+      }
+    ],
+    "meta": {
+      "version": "v1.0.0",
+      "theme": "relaxed",
+      "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    }
+  }
