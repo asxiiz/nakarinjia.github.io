@@ -1,113 +1,120 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
-    "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+    "name": "Palathip Wuttiprayoon",
+    "label": "Software Trainee",
+    "picture": "",
+    "email": "boom.palathip@gmail.com",
+    "phone": "080-872-6606",
+    "website": "https://boombibu.wordpress.com",
+    "summary": "Palathip Wuttiprayoon from Songkhla. Nickname is Boom. Earned ฺBachelor of Computer Engineering from the Prince of Songkhla University.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": " 146, 1/1 Thungree-Khokwat Lane, Khorhong",
+      "postalCode": "90110",
+      "city": "Hatyai",
+      "countryCode": "Thailand",
+      "region": "Songkhla"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/john"
-    }]
+  "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Palathip Wuttiprayoon",
+        "url": "https://www.linkedin.com/in/palathip-wuttiprayoon-b785b995/"
+      },
+      {
+        "network": "Twitter",
+        "username": "@boombibu",
+        "url": "https://twitter.com/boombibu"
+      },
+      {
+        "network": "Facebook",
+        "username": "Boom Palathip",
+        "url": "https://www.facebook.com/boom.palathip"
+      },
+      {
+        "network": "Youtube",
+        "username": "Boombibu Channel",
+        "url": "https://www.youtube.com/channel/UCs_yfLS9cN0WIEsZIqA1MWA"
+      },
+      {
+        "network": "Instragram",
+        "username": "boombibu",
+        "url": "https://www.instagram.com/boombibu/"
+      }
+    ]
   },
-  "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Started the company"
-    ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
-  "projects": [{
-    "name": "Project",
-    "startDate": "2019-01-01",
-    "endDate": "2021-01-01",
-    "description": "Description...",
-    "highlights": [
-      "Won award at AIHacks 2016"
-    ],
-    "url": "https://project.com/"
-  }],
-  "meta": {
-    "theme": "relaxed"
+ "education": [
+    {
+      "institution": "Prince of Sonkhla University",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2010-06-01",
+      "endDate": "2015-05-01",
+      "gpa": "2.58",
+      "courses": []
+    }
+  ],
+"skills": [
+    {
+      "name": "Operating Systems",
+      "level": "Master",
+      "keywords": [
+        "Windows",
+        "OSX",
+        "iOS"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "PHP",
+        "MySQL",
+        "C",
+        "Python"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Beginner",
+      "keywords": [
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Applications",
+      "level": "Intermediate",
+      "keywords": [
+        "MS Office",
+        "Photoshop",
+        "Lightroom",
+        "Audition",
+        "Dreamweaver"
+      ]
+    }
+  ],
+"work": [
+    {
+      "company": "Air Traffic Control (Hatyai)",
+      "position": "Engineer Internship",
+      "website": "https://www.aerothai.co.th",
+      "startDate": "2013-03-15",
+      "endDate": "2013-06-30",
+      "summary": "Design and create web application \"NAVAID Status\" for show landing device status on webpage.",
+      "highlights": []
+    },
+    {
+      "company": "Toyota Songkhla (Hatyai)",
+      "position": "IT Manager",
+      "website": " http://www.toyotasongkhla.com",
+      "startDate": "2016-10-01",
+      "endDate": "2019-01-19",
+      "summary": "Maintenance, monitoring toyota system and IT service in organization.",
+      "highlights": []
+    }
+    
+  ],
+ "meta": {
+    "theme": "elegant"
   }
 }
