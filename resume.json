@@ -1,15 +1,14 @@
 {
-    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
     "basics": {
       "name": "Nakarin Jia",
       "label": "Full-stack Developer @ Bonmek Co.,Ltd. | ISO/IEC 29110 training",
       "image": "",
-      "email": "",
-      "phone": "",
+      "email": "asxiiz.kie@gmail.com",
+      "phone": "(+66)95-607-6411",
       "url": "",
       "summary": "As a Full-stack Developer at Bonmek, I design and develop web and mobile applications using Angular and Grails. One of my proudest achievements is the Bismillah project, which is available on Play Store and App Store. This project was the first one I worked on and it involved creating a web and mobile app based on the requirements. \n\nI graduated with a Bachelor of Engineering degree in Computer Engineering from Prince of Songkla University, where I learned the fundamentals of software engineering and network systems. I also gained some experience working as a Developer at B-better startup, where I helped to create a mobile app for stroke patients. Next year, I will be training in ISO/IEC 29110, which will enhance my project management skills. I am always eager to learn new skills and technologies, and I enjoy working on challenging and innovative projects.",
       "location": {
-        "countryCode": "US",
+        "countryCode": "TH",
         "address": "Thailand"
       },
       "profiles": [
@@ -26,7 +25,7 @@
         "position": "Full-stack Developer",
         "startDate": "2020-09-30",
         "endDate": "2024-03-31",
-        "highlights": [],
+        "highlights": ["1st Company & Job"],
         "summary": "In my position, I work with Angular and Grails. Most of our productions are in-house products. I am most proud of my project, \"Bismillah\" (available on Play Store and App Store). In this project, I have designed a web application and a mobile application based on requirements. This project is the first one I have worked on. Next year, I have the opportunity to train in \"ISO/IEC 29110: The provision of software application development in accordance with Software Engineering - Lifecycle profile ISO/IEC VSE 29110-4-1:2018\" with SGS Certification. In this training, I will learn project management skills. After that, I will learn some Grails skills and try to write some APIs.",
         "url": "",
         "location": "Hat Yai, Songkhla, Thailand"
