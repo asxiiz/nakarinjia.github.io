@@ -106,5 +106,9 @@
       "Won award at AIHacks 2016"
     ],
     "url": "https://project.com/"
-  }]
+  }],
+  "meta": {
+    "theme": "elegant"
+  }
+  
 }
