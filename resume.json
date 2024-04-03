@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Nakarin Jiatanapaisarn",
-    "label": "Full-stack Developer @ Bonmek Co.,Ltd. | ISO/IEC 29110 training",
-    "picture": "",
-    "email": "asxiiz.kie@gmail.com",
-    "phone": "(+66)95-607-6411",
-    "url": "",
-    "summary": "As a Full-stack Developer at Bonmek, I design and develop web and mobile applications using Angular and Grails. One of my proudest achievements is the Bismillah project, which is available on Play Store and App Store. This project was the first one I worked on and it involved creating a web and mobile app based on the requirements. \n\nI graduated with a Bachelor of Engineering degree in Computer Engineering from Prince of Songkla University, where I learned the fundamentals of software engineering and network systems. I also gained some experience working as a Developer at B-better startup, where I helped to create a mobile app for stroke patients. Next year, I will be training in ISO/IEC 29110, which will enhance my project management skills. I am always eager to learn new skills and technologies, and I enjoy working on challenging and innovative projects.",
+    "name": "John Doe",
+    "label": "Programmer",
+    "image": "",
+    "email": "john@gmail.com",
+    "phone": "(912) 555-4321",
+    "url": "https://johndoe.com",
+    "summary": "A summary of John Doe…",
     "location": {
-      "address": "136/24,Sutharhip Thathon Village",
-      "postalCode": "90110",
-      "city": "Hatyai",
-      "countryCode": "Thailand",
-      "region": "Songkhla"
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
     "profiles": [{
       "network": "Twitter",
@@ -108,7 +108,6 @@
     "url": "https://project.com/"
   }],
   "meta": {
-    "theme": "elegant"
+    "theme": "relaxed"
   }
-  
 }
